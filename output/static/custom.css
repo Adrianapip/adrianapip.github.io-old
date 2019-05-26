@@ -1,19 +1,44 @@
 /*
-E9E5E5 EBB Light shades
-8C8CAC MANATEE Light accent
-C92790 MEDIUM RED VIOLET Main brand color
-858088 MAMBA Dark accent
-39416A RHINO Dark shades
+font-family: 'Alice', serif;
+font-family: 'Montserrat', sans-serif;
 */
 
+.site-title {
+	font-family: 'Alice', serif;
+}
 
+.subtitle-font {
+	font-family: 'Montserrat', sans-serif;
 
+}
+
+.aside-font {
+	font-family: 'Alice', serif;
+}
 
 img {
     box-shadow: 5px 5px 12px grey;
 }
 
 aside {
-	background-color: #57C3C9;
+	background-color: #5bc6cc;
 }
+
+#btns {
+	background-color: #fc9384;
+}
+
+a {
+	color: #57C3C9;
+}
+
+a:hover {
+	color: #82B58C;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+
 

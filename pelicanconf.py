@@ -3,11 +3,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Adriana'
-SITEURL = 'http://adrianapip.github.io'
-SITENAME = "Adriana's Site"
+SITEURL = 'http://www.adrianapattersonip.com'
+SITENAME = "Adriana Patterson Ip"
 SITEURL = ''
 SITETITLE = 'Adriana Patterson Ip'
-SITESUBTITLE = "I'm a scientist 👩🏻‍🔬 that can write a little code 👩🏻‍💻 and bake amazing pies 🥧."
+SITESUBTITLE = "I'm a scientist that likes to code and bake pies."
 COPYRIGHT_NAME = 'Adriana Patterson Ip,'
 COPYRIGHT_YEAR = '2019'
 SITELOGO = SITEURL + '/img/profile.png'
@@ -33,10 +33,7 @@ MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 
 # Blogroll
-LINKS = (('Dranalytics', 'https://www.dranalytics.co'),
-         ('Tasty Pastry', 'https://www.tastypastry.kitchen'),
-         
-         ('Blog', '/'),)
+LINKS = ()
         
 
 # Social widget
@@ -48,7 +45,7 @@ DEFAULT_PAGINATION = 10
 
 THEME = '/Users/adrianaip/pelican-themes/Flex'
 CUSTOM_CSS = 'static/custom.css'
-STATIC_PATHS = ['img', 'static']
+STATIC_PATHS = ['img', 'static', 'pdfs']
 
 
 # Uncomment following line if you want document-relative URLs when developing

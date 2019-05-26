@@ -5,6 +5,7 @@ Tags: Python, Pelican
 Slug: static-vs-dynamic
 Authors: Adriana
 Summary: How this site exists
+Draft: True
 
 In my recent explorations of types of sites to create: I've pretty much done them all. I've had a wordpress site, I have a squarespace site, I'm working on a complete front-to-back site, and I have this one.
 
