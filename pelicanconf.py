@@ -45,7 +45,8 @@ DEFAULT_PAGINATION = 10
 
 THEME = '/Users/adrianaip/pelican-themes/Flex'
 CUSTOM_CSS = 'static/custom.css'
-STATIC_PATHS = ['img', 'static', 'pdfs']
+STATIC_PATHS = ['img', 'static', 'pdfs', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 
 # Uncomment following line if you want document-relative URLs when developing
