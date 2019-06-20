@@ -33,7 +33,7 @@ MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 
 # Blogroll
-LINKS = ()
+LINKS = (('bookshelf', 'https://github.com/Adrianapip'))
         
 
 # Social widget
