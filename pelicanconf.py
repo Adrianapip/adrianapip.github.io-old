@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Adriana'
-SITEURL = 'https://www.adrianapattersonip.com'
+SITEURL = ''
 SITENAME = "Adriana Patterson Ip"
 SITETITLE = "Adriana Patterson Ip"
 SITESUBTITLE = "Science || Coding || Baking"
@@ -12,7 +12,7 @@ COPYRIGHT_YEAR = '2019'
 SITELOGO = SITEURL + '/img/profile.png'
 FAVICON = SITEURL + '/images/favicon.ico'
 
-PATH = 'content/'
+PATH = '/Users/adrianaip/Amazon_Drive/Side_Projects/adrianapip.github.io/content/'
 
 TIMEZONE = 'America/Los_Angeles'
 
@@ -32,7 +32,7 @@ MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 
 # Blogroll
-LINKS = (('bookshelf', 'https://github.com/Adrianapip'))
+LINKS = (('??', 'https://github.com/Adrianapip'))
         
 
 # Social widget
@@ -42,7 +42,7 @@ SOCIAL = (('github', 'https://github.com/Adrianapip'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = '/Users/adrianaip/pelican-themes/Flex'
+THEME = '/Users/adrianaip/Amazon_Drive/Side_Projects/adrianapip.github.io/pelican-themes/Flex'
 CUSTOM_CSS = 'static/custom.css'
 STATIC_PATHS = ['img', 'static', 'pdfs', 'extra/CNAME',]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
