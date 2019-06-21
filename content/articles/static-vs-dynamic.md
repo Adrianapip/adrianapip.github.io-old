@@ -1,4 +1,4 @@
-Title: Static vs. Dynamic
+Title: My Static vs. Dynamic Websites
 Date: 2019-05-13 
 Category: General
 Tags: Python, Pelican
@@ -15,6 +15,3 @@ I also have a squarespace site, which I love. I've always felt lacking in design
 
 On the other hand, such a site here would be lovely, but my goal is to document and present my learning, so I chose to go with a very simple static site generator - Pelican. I just really love Python so it seemed like the most rational choice. It requires a little knowledge of how Python works but for the most part it's so well documented that almost every problem is google-able.   
 
-<script>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrUuqx8ee71IPRZI?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-</script>
