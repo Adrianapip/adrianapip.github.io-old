@@ -41,7 +41,7 @@ p {
 
 .gr_grid_container {
     width: 100%;
-    height: 200px;
+    height: auto;
     text-align: center;
         /* customize grid container div here. eg: width: 500px; */
 }
