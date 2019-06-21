@@ -6,7 +6,7 @@ AUTHOR = 'Adriana'
 SITEURL = 'http://www.adrianapattersonip.com'
 SITENAME = "Adriana Patterson Ip"
 SITETITLE = "Adriana Patterson Ip"
-SITESUBTITLE = "Science + Stuff, where Stuff = coding, baking and reading"
+SITESUBTITLE = "Science || Coding || Baking"
 COPYRIGHT_NAME = 'Adriana Patterson Ip,'
 COPYRIGHT_YEAR = '2019'
 SITELOGO = SITEURL + '/img/profile.png'
