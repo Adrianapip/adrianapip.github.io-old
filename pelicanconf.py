@@ -48,6 +48,9 @@ STATIC_PATHS = ['img', 'static', 'pdfs', 'extra/CNAME',]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
+PLUGIN_PATHS = ['pelican-plugins/']
+PLUGINS = ['readtime']
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
