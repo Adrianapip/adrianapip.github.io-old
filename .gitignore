@@ -25,6 +25,14 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-venv
-venv/
+
 *.pyc
+
+venv
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
