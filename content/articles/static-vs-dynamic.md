@@ -1,5 +1,5 @@
 Title: Why I chose Pelican and how I update blog posts
-Date: 2019-05-13 
+Date: 2019-06-13 
 Category: General
 Tags: Python, Pelican, Blogging
 Slug: pelican-sites-and-creating-blogposts
